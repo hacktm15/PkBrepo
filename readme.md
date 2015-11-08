@@ -1,6 +1,6 @@
 Ca si cumparator, caut cea mai apreciata distilerie,
 
-http://palinkabuna.com/distilerii
+http://palinkabuna.com --> distilerii
 
 din zonele:
 
@@ -12,7 +12,7 @@ din zonele:
  --- Caras-Severin
 
 
-Ca si administrator de distilerie, caut producatori autohtoni de fructe(special pruni), pe http://palinkabuna.com/producatori in zonele:
+Ca si administrator de distilerie, caut producatori autohtoni de fructe(special pruni), pe http://palinkabuna.com --> producatori in zonele:
 
  --- Maramures,
 
