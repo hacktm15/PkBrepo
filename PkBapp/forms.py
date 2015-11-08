@@ -18,6 +18,7 @@ from .models import rev2
 class dirForm(forms.Form):
     cursor = connection.cursor()
     cursor.execute("select dname,dname from PkBapp_distilerieinfo")
+
     CHOICES = cursor.fetchall()
     source = forms.ChoiceField(choices=CHOICES)
     dest = forms.ChoiceField(choices=CHOICES)

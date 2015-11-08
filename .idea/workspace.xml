@@ -25,92 +25,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PkB/settings.py">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="81" column="41" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="41" />
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PkBapp/views.py">
+      <file leaf-file-name="boilerplate.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/boilerplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.877193">
-              <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
-              <folding>
-                <marker date="1446982798680" expanded="true" signature="1562:1576" placeholder="SELECT * fro..metro_distilerieinfo..." />
-                <marker date="1446982798680" expanded="true" signature="1562:1612" placeholder="SELECT * fro..PkBapp_distilerieinfo..." />
-                <marker date="1446982798680" expanded="true" signature="1684:1729" placeholder="SELECT * fro..PkBapp_distilerie..." />
-                <marker date="1446982798680" expanded="true" signature="1815:1860" placeholder="SELECT place..PkBapp_places..." />
-                <marker date="1446982798680" expanded="true" signature="2456:2501" placeholder="SELECT dname..PkBapp_places..." />
-                <marker date="1446982798680" expanded="true" signature="2826:2881" placeholder="SELECT dname..PkBapp_distilerieinfo..." />
-                <marker date="1446982798680" expanded="true" signature="3432:3512" placeholder="SELECT dname..PkBapp_review..." />
-                <marker date="1446982798680" expanded="true" signature="3955:4062" placeholder="INSERT INTO PkBapp_review..." />
-                <marker date="1446982798680" expanded="true" signature="3973:4062" placeholder="INSERT INTO metro_review..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PkBapp/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4857143">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-                <marker date="1446983027495" expanded="true" signature="298:305" placeholder="select sname..PkBapp_stationinfo..." />
-                <marker date="1446983027495" expanded="true" signature="298:329" placeholder="select dname..PkBapp_stationinfo..." />
-                <marker date="1446983027495" expanded="true" signature="298:343" placeholder="select dname..PkBapp_distilerieinfo..." />
-                <marker date="1446983027495" expanded="true" signature="555:600" placeholder="select dname..PkBapp_distilerieinfo..." />
-                <marker date="1446983027495" expanded="true" signature="766:803" placeholder="select place..PkBapp_places..." />
-                <marker date="1446983027495" expanded="true" signature="1181:1226" placeholder="select dname..PkBapp_distilerieinfo..." />
-                <marker date="1446983027495" expanded="true" signature="1391:1436" placeholder="select dname..PkBapp_distilerieinfo..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PkB/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7192984">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#612#653#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PkBapp/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6842105">
-              <caret line="90" column="11" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="11" />
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PkBapp/admin.py">
+      <file leaf-file-name="directions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/directions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.448276">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+      <file leaf-file-name="directions2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/directions2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/info2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nearest.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/nearest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nearest2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/nearest2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="review.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/review.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08133971">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -123,6 +132,7 @@
       <list>
         <option value="Setup Script" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -134,8 +144,18 @@
         <option value="$PROJECT_DIR$/PkB/urls.py" />
         <option value="$PROJECT_DIR$/PkBapp/models.py" />
         <option value="$PROJECT_DIR$/PkBapp/admin.py" />
-        <option value="$PROJECT_DIR$/PkBapp/views.py" />
         <option value="$PROJECT_DIR$/PkBapp/forms.py" />
+        <option value="$PROJECT_DIR$/PkBapp/views.py" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/boilerplate.html" />
+        <option value="$PROJECT_DIR$/templates/directions.html" />
+        <option value="$PROJECT_DIR$/templates/directions2.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/info.html" />
+        <option value="$PROJECT_DIR$/templates/info2.html" />
+        <option value="$PROJECT_DIR$/templates/nearest.html" />
+        <option value="$PROJECT_DIR$/templates/nearest2.html" />
+        <option value="$PROJECT_DIR$/templates/review.html" />
       </list>
     </option>
   </component>
@@ -145,8 +165,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="130" />
+    <option name="x" value="744" />
+    <option name="y" value="4" />
     <option name="width" value="1749" />
     <option name="height" value="1000" />
   </component>
@@ -231,6 +251,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PkB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PkB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="PkBapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -256,6 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Python27" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -515,7 +550,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="130" width="1749" height="1000" extended-state="0" />
+    <frame x="744" y="4" width="1749" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19965377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -607,38 +642,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PkBapp/views.py">
+    <entry file="file://$PROJECT_DIR$/PkBapp/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.877193">
-          <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+        <state vertical-scroll-proportion="-5.9649124">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <marker date="1446982798680" expanded="true" signature="1562:1576" placeholder="SELECT * fro..metro_distilerieinfo..." />
-            <marker date="1446982798680" expanded="true" signature="1562:1612" placeholder="SELECT * fro..PkBapp_distilerieinfo..." />
-            <marker date="1446982798680" expanded="true" signature="1684:1729" placeholder="SELECT * fro..PkBapp_distilerie..." />
-            <marker date="1446982798680" expanded="true" signature="1815:1860" placeholder="SELECT place..PkBapp_places..." />
-            <marker date="1446982798680" expanded="true" signature="2456:2501" placeholder="SELECT dname..PkBapp_places..." />
-            <marker date="1446982798680" expanded="true" signature="2826:2881" placeholder="SELECT dname..PkBapp_distilerieinfo..." />
-            <marker date="1446982798680" expanded="true" signature="3432:3512" placeholder="SELECT dname..PkBapp_review..." />
-            <marker date="1446982798680" expanded="true" signature="3955:4062" placeholder="INSERT INTO PkBapp_review..." />
-            <marker date="1446982798680" expanded="true" signature="3973:4062" placeholder="INSERT INTO metro_review..." />
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1446984172644" expanded="true" signature="298:305" placeholder="select sname..PkBapp_stationinfo..." />
+            <marker date="1446984172644" expanded="true" signature="298:329" placeholder="select dname..PkBapp_stationinfo..." />
+            <marker date="1446984172644" expanded="true" signature="298:343" placeholder="select dname..PkBapp_distilerieinfo..." />
+            <marker date="1446984172644" expanded="true" signature="556:601" placeholder="select dname..PkBapp_distilerieinfo..." />
+            <marker date="1446984172644" expanded="true" signature="767:804" placeholder="select place..PkBapp_places..." />
+            <marker date="1446984172644" expanded="true" signature="970:1019" placeholder="select pinco..PkBapp_distilerieinfo..." />
+            <marker date="1446984172644" expanded="true" signature="1182:1227" placeholder="select dname..PkBapp_distilerieinfo..." />
+            <marker date="1446984172644" expanded="true" signature="1392:1437" placeholder="select dname..PkBapp_distilerieinfo..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PkBapp/forms.py">
+    <entry file="file://$PROJECT_DIR$/PkBapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4857143">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.3859649">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1446983027495" expanded="true" signature="298:305" placeholder="select sname..PkBapp_stationinfo..." />
-            <marker date="1446983027495" expanded="true" signature="298:329" placeholder="select dname..PkBapp_stationinfo..." />
-            <marker date="1446983027495" expanded="true" signature="298:343" placeholder="select dname..PkBapp_distilerieinfo..." />
-            <marker date="1446983027495" expanded="true" signature="555:600" placeholder="select dname..PkBapp_distilerieinfo..." />
-            <marker date="1446983027495" expanded="true" signature="766:803" placeholder="select place..PkBapp_places..." />
-            <marker date="1446983027495" expanded="true" signature="1181:1226" placeholder="select dname..PkBapp_distilerieinfo..." />
-            <marker date="1446983027495" expanded="true" signature="1391:1436" placeholder="select dname..PkBapp_distilerieinfo..." />
+            <marker date="1446984869134" expanded="true" signature="1562:1576" placeholder="SELECT * fro..metro_distilerieinfo..." />
+            <marker date="1446984869134" expanded="true" signature="1562:1612" placeholder="SELECT * fro..PkBapp_distilerieinfo..." />
+            <marker date="1446984869134" expanded="true" signature="1684:1729" placeholder="SELECT * fro..PkBapp_distilerie..." />
+            <marker date="1446984869134" expanded="true" signature="1815:1860" placeholder="SELECT place..PkBapp_places..." />
+            <marker date="1446984869134" expanded="true" signature="2456:2501" placeholder="SELECT dname..PkBapp_places..." />
+            <marker date="1446984869134" expanded="true" signature="2826:2881" placeholder="SELECT dname..PkBapp_distilerieinfo..." />
+            <marker date="1446984869134" expanded="true" signature="3433:3513" placeholder="SELECT dname..PkBapp_review..." />
+            <marker date="1446984869134" expanded="true" signature="3956:4063" placeholder="INSERT INTO PkBapp_review..." />
+            <marker date="1446984869134" expanded="true" signature="3974:4063" placeholder="INSERT INTO metro_review..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/boilerplate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/directions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/directions2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/info2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/nearest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/nearest2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08133971">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

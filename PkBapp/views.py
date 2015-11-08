@@ -102,6 +102,7 @@ def nearest3(request):
 def review(request):
     form1 = rev1Form(request.POST or None)
     form2 = rev2Form(request.POST or None)
+
     return render_to_response('review.html', {'form1': form1, 'form2': form2}, context_instance=RequestContext(request))
 
 
